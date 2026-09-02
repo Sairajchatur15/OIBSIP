@@ -1,0 +1,10 @@
+# Java build output
+*.class
+*.jar
+
+# IDE configuration
+.idea/
+*.iml
+
+# Local SQLite databases
+*.db
